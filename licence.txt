@@ -1,0 +1,5 @@
+MIT License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, as long as the original license is included in any distributed copies or substantial portions of the project.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
