@@ -39,15 +39,10 @@ Feel free to open an issue or submit a pull request if you have any suggestions 
 
 ## License
 
-This project is licensed under the MIT <a href="">License</a> - see the LICENSE file for details.
+This project is licensed under the MIT <a href="licence.txt">License</a> - see the LICENSE file for details.
 
 Copyright (c) 2025 [SachinSharma]
 
-MIT License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code, as long as the original license is included in any distributed copies or substantial portions of the project.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
 
 
